@@ -1,0 +1,18 @@
+*{
+    font-family: monospace;
+}
+
+.headingContainer{
+    background-color: #433379;
+}
+
+.content{
+    background-color: #433379;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.btn-custom {
+    background-color: #ff9900 !important;
+    color: #433379 !important;
+}
