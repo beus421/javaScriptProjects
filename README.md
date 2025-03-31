@@ -2,7 +2,7 @@
 
 A collection of JavaScript projects organized by concepts and functionality to demonstrate various aspects of JavaScript development.
 
-![JavaScript Projects](KeyIdentifier.png)
+![JavaScript Projects](https://github.com/beus421/javaScriptProjects/blob/main/keyIdentifier.png)
 
 ## 📂 Repository Structure
 
