@@ -11,6 +11,14 @@ This repository contains several JavaScript projects organized by concept:
 - **basicDomManipulationProjects/**: Projects focused on manipulating the DOM (Document Object Model)
 - **asyncProject/**: Projects demonstrating asynchronous JavaScript concepts (Promises, async/await, etc.)
 
+## 🔑 Key Identifier Project
+
+One of the featured projects is a Key Identifier tool that displays which keyboard key you've pressed along with its key code:
+
+![Key Identifier Demo](https://github.com/beus421/javaScriptProjects/blob/main/keyIdentifier.gif)
+
+This tool helps developers quickly identify key codes for use in JavaScript event handlers.
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -23,7 +31,7 @@ This repository contains several JavaScript projects organized by concept:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/javaScriptProjects.git
+   git clone https://github.com/beus421/javaScriptProjects.git
    ```
 
 2. Navigate to project folders:
@@ -37,18 +45,21 @@ This repository contains several JavaScript projects organized by concept:
 
 ### Basic DOM Manipulation Projects
 Projects that demonstrate interaction with the HTML Document Object Model:
-- [Project 1 description]
-- [Project 2 description]
-- [Project 3 description]
+- Key Identifier: A tool to identify keyboard keys and their keycodes
+- [Other project descriptions]
 
 ### Async Projects
 Projects demonstrating asynchronous JavaScript functionality:
-- [Project 1 description]
-- [Project 2 description]
+- [Project descriptions]
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/beus421/javaScriptProjects/issues).
 
+## 📝 License
+
+This project is [MIT](LICENSE) licensed.
+
+## 📞 Contact
 
 Project Link: [https://github.com/beus421/javaScriptProjects](https://github.com/beus421/javaScriptProjects)
