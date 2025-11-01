@@ -46,11 +46,9 @@ This tool helps developers quickly identify key codes for use in JavaScript even
 ### Basic DOM Manipulation Projects
 Projects that demonstrate interaction with the HTML Document Object Model:
 - Key Identifier: A tool to identify keyboard keys and their keycodes
-- [Other project descriptions]
 
 ### Async Projects
 Projects demonstrating asynchronous JavaScript functionality:
-- [Project descriptions]
 
 ## 🤝 Contributing
 
